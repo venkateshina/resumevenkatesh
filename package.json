@@ -8,8 +8,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-   "start": "react-scripts --openssl-legacy-provider start"
+    "build": "next build", 
+    "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
